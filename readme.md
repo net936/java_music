@@ -11,9 +11,7 @@
 演示地址：[https://music.gitapp.cn](https://music.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_music
 
 
 ## 主要功能
